@@ -6,6 +6,9 @@ Here is the generated `README.md` file based on the provided information:
 
 This repository contains a collection of Python scripts and Streamlit applications designed for creating an AI-powered sales assistant and interacting with data like PDFs and CSVs. Follow the instructions below to set up the project.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/14b72deb-845d-4b58-859c-876744849738" />
+
+
 ---
 
 ## Prerequisites
